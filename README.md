@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Soo%20Yun%20Kim&fontSize=70&animation=typing&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=25&descAlignY=60)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Soo%20Yun%20Kim&fontSize=70&animation=typing&fontAlignY=38&desc=Software%20Engineer&descSize=25&descAlignY=60)
 
 ### 🚀 About Me
 With **5 years of experience**, I build and operate scalable, end-to-end solutions. I specialize in robust back-end architectures using **C#, .NET, and Java**, while increasingly leveraging **TypeScript and Node.js** to stay aligned with modern full-stack trends.
